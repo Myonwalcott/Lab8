@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: orange;
+}
+
+.info-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.gif {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: green;
+    color: black;
+    cursor: pointer;
+}
